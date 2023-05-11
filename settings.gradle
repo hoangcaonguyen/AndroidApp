@@ -1,0 +1,2 @@
+rootProject.name = "AppCloud"
+include ':app'

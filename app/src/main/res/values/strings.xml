@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="logo_description">Logo của ứng dụng</string>
+    <string name="username_hint">Nhập tên đăng nhập</string>
+    <string name="password_hint">Nhập mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="forgot_password">Quên mật khẩu?</string>khẩu
+    <string name="login_name">Tài khoản:</string>
+    <string name="pass_name">Mật khẩu:</string>
+    <string name="repass_name">Nhập lại mật khẩu:</string>
+    <string name="repassword_hint">Nhập lại mật khẩu</string>
+    <string name="phone_name">Số điện thoại:</string>
+    <string name="phone_hint">Nhập Số điện thoại</string>
+    <string name="email_name">Email</string>
+    <string name="email_hint">Nhập Email</string>
+    <string name="back">Quay lại</string>
+    <string name="activiti_name">Đăng ký</string>
+</resources>
